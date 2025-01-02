@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人简介"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/

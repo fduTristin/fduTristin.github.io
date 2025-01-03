@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+I am a junior undergraduate student majoring in Computer Science at Fudan University, currently interested in Computer Vision.

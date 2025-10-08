@@ -10,11 +10,12 @@ redirect_from:
 
 I am a junior undergraduate student majoring in Computer Science at the School of Computer Science, Fudan University.
 
+Contact me by [houzexu22@m.fudan.edu.cn](mailto:houzexu22@m.fudan.edu.cn)
+
 ## 🌟 Research Interests
 
-My research interests include **Continual Learning**, **Video Understanding**, and **Multimodal Large Models**.
+My research interests include **Continual Learning**, **Multimodal Large Models**, and **Embodied AI**.
 
 ## 🛠️ Project Experiences
 
-* [**COMP101**](https://comp101.fducslg.com/): Guide to Computer Science for Undergrads at Fudan University
 * [**OpenTreeHole**](https://github.com/OpenTreeHole): Open-Source Anonymous Forum for Fudan (a.k.a. 树洞 or 茶楼)

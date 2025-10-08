@@ -22,14 +22,14 @@ repository               : "fduTristin/fduTristin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpg"
+  avatar           : "fox.png"
   name             : "fduTristin"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
-  email            : "tristinfdu@gmail.com" 
+  email            : "houzexu22@m.fudan.edu.cn" 
 
   # Academic websites
   academia         : # URL
